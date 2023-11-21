@@ -1,0 +1,32 @@
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\appsettings.json
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Projeto .NET Netcon.exe
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Projeto .NET Netcon.deps.json
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Projeto .NET Netcon.runtimeconfig.json
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Projeto .NET Netcon.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Projeto .NET Netcon.pdb
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.AssemblyInfo.cs
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets\msbuild.Projeto .NET Netcon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets\msbuild.build.Projeto .NET Netcon.props
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projeto .NET Netcon.props
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeto .NET Netcon.props
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\scopedcss\bundle\Projeto .NET Netcon.styles.css
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.csproj.CopyComplete
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\refint\Projeto .NET Netcon.dll
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.pdb
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\Projeto .NET Netcon.genruntimeconfig.cache
+C:\Users\micha\Documents\Projeto .NET Netcon\obj\Debug\net8.0\ref\Projeto .NET Netcon.dll

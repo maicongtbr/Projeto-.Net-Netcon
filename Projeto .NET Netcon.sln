@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto .NET Netcon", "Projeto .NET Netcon.csproj", "{751424D8-1DCE-4C38-A42E-3DB6F8BF65AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751424D8-1DCE-4C38-A42E-3DB6F8BF65AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751424D8-1DCE-4C38-A42E-3DB6F8BF65AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751424D8-1DCE-4C38-A42E-3DB6F8BF65AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751424D8-1DCE-4C38-A42E-3DB6F8BF65AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9332CA8-1171-491E-9712-E61CE6DA23D7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@Projeto_.NET_Netcon_HostAddress = http://localhost:5080
+
+GET {{Projeto_.NET_Netcon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
