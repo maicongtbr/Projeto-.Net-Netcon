@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto .NET Netcon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0a0bddf10bc1329bce9dee4122ee8be92820ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto .NET Netcon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto .NET Netcon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

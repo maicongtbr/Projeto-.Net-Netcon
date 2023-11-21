@@ -14,14 +14,12 @@ namespace Projeto_.NET_Netcon.Controllers
             float initialValue;
             double convertedValue;
 
-            
-
-            if (km > 1) //Validação e calculo da conversão km > anos luz.
+            if (km >= 1) //Validação e calculo da conversão km > anos luz.
             {
                 initialValue = (float)km;
                 convertedValue = initialValue / 9460730472580.8;
             }
-            else if (anosLuz > 1) //Validação e calculo da conversão anos luz > km.
+            else if (anosLuz >= 1) //Validação e calculo da conversão anos luz > km.
             {
                 initialValue = (float)anosLuz;
                 convertedValue = initialValue * 9460730472580.8;
@@ -32,7 +30,8 @@ namespace Projeto_.NET_Netcon.Controllers
                 {
                     StatusCode = 400,
                     ErrorMessage = "invalid value",
-                    DateTime = new DateTime()
+                    DateTime = new DateTime(),
+                    Value = null
                 };
 
                 return errorModel;
@@ -43,7 +42,7 @@ namespace Projeto_.NET_Netcon.Controllers
                 StatusCode = 200,
                 ErrorMessage = null,
                 DateTime = DateTime.Now,
-                value = convertedValue
+                Value = convertedValue
             };
 
             return successModel;

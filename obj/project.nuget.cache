@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FrWzkAakPSjq58TuQygCanRvVxybFijUlosDeuOdCXZdhnPRdtBLwOVtWKBy4KSLrpXcER5ckfBKBvtbM/rO0Q==",
+  "dgSpecHash": "jQQNGHRDMSGLKx51SpviC5R4Z3VIWrkcCkrVqeyRD8JParCNH8ADQYiEf7LfMp29QMwk7KnBwHRiSes8Qjw42Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Documents\\Projeto .NET Netcon\\Projeto .NET Netcon.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Documents\\Projeto-.Net-Netcon\\Projeto .NET Netcon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

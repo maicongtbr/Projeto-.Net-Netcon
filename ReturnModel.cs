@@ -5,6 +5,6 @@ namespace Projeto_.NET_Netcon
         public int StatusCode { get; set; }
         public string? ErrorMessage { get; set; }
         public DateTime DateTime { get; set; }
-        public double? value { get; set; }
+        public double? Value { get; set; }
     }
 }

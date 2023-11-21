@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Documents\\Projeto .NET Netcon\\Projeto .NET Netcon.csproj": {}
+    "C:\\Users\\micha\\Documents\\Projeto-.Net-Netcon\\Projeto .NET Netcon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Documents\\Projeto .NET Netcon\\Projeto .NET Netcon.csproj": {
+    "C:\\Users\\micha\\Documents\\Projeto-.Net-Netcon\\Projeto .NET Netcon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Documents\\Projeto .NET Netcon\\Projeto .NET Netcon.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\Projeto-.Net-Netcon\\Projeto .NET Netcon.csproj",
         "projectName": "Projeto .NET Netcon",
-        "projectPath": "C:\\Users\\micha\\Documents\\Projeto .NET Netcon\\Projeto .NET Netcon.csproj",
+        "projectPath": "C:\\Users\\micha\\Documents\\Projeto-.Net-Netcon\\Projeto .NET Netcon.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Documents\\Projeto .NET Netcon\\obj\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\Projeto-.Net-Netcon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
